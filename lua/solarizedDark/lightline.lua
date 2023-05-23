@@ -51,7 +51,7 @@ local lightline_theme = {
   tabline = {
     left = { { base01, base0 } },
     middle = { { base02, base2 } },
-    right = { { base02, orange } },
+    right = { { base02, magenta } },
     tabsel = { { base02, base01 } },
   },
 }

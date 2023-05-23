@@ -44,14 +44,14 @@ local lightline_theme = {
     right = { { base02, cyan }, { base0, base0 } },
   },
   visual = {
-    left = { { base02, magenta, "bold" }, { base02, base2 } },
+    left = { { base02, orange, "bold" }, { base02, base2 } },
     middle = { { base01, base00 } },
-    right = { { base02, magenta }, { base02, base2 } },
+    right = { { base02, orange }, { base02, base2 } },
   },
   tabline = {
     left = { { base01, base0 } },
     middle = { { base02, base2 } },
-    right = { { base02, magenta } },
+    right = { { base02, orange } },
     tabsel = { { base02, base01 } },
   },
 }

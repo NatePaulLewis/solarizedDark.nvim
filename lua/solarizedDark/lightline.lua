@@ -2,23 +2,23 @@
 local theme = require("solarizedDark.groups").setup()
 
 local base02 = theme.SolarizedBase02.fg
+local base03 = theme.SolarizedBase03.fg
 local base00 = theme.SolarizedBase00.fg
 local base2 = theme.SolarizedBase2.fg
 local base0 = theme.SolarizedBase0.fg
 local base01 = theme.SolarizedBase01.fg
-
-local yellow = theme.SolarizedYellow.fg
 local blue = theme.SolarizedBlue.fg
 local cyan = theme.SolarizedCyan.fg
+local green = theme.SolarizedGreen.fg
+local magenta = theme.SolarizedMagenta.fg
 local orange = theme.SolarizedOrange.fg
 local red = theme.SolarizedRed.fg
-local magenta = theme.SolarizedMagenta.fg
-local green = theme.SolarizedGreen.fg
+local yellow = theme.SolarizedYellow.fg
 
 local lightline_theme = {
   normal = {
     left = { { base02, base01, "bold" }, { base01, base0 } },
-    middle = { { base01, base00 } },
+    middle = { { base02, base03 } },
     right = { { base02, base01 }, { base01, base0 } },
     error = { { base02, red } },
     warning = { { base02, yellow } },

@@ -46,7 +46,7 @@ local lightline_theme = {
   visual = {
     left = { { base02, magenta, "bold" }, { base02, base2 } },
     middle = { { base01, base00 } },
-    right = { { base02, orange }, { base02, base2 } },
+    right = { { base02, magenta }, { base02, base2 } },
   },
   tabline = {
     left = { { base01, base0 } },

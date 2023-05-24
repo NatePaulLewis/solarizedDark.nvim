@@ -23,7 +23,7 @@ local lightline_theme = {
     warning = { { base02, yellow } },
   },
   insert = {
-    left = { { base02, blue, "bold" }, { base0, base0 } },
+    left = { { blue, magenta, "bold" }, { red, green } },
     middle = { { base01, base00 } },
     right = { { base02, blue }, { base0, base0 } },
   },

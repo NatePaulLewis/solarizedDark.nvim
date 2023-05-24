@@ -624,7 +624,7 @@ M.setup = function()
     xmlCdataCdata = { link = "SolarizedViolet" },
     dtdFunction = { link = "SolarizedBase1" },
     dtdTagName = { link = "SolarizedViolet" },
-    xmlAttrib = { link = "SolarizedGreen" },
+    xmlAttrib = { link = "SolarizedOrange" },
     xmlProcessingDelim = { link = "SolarizedBase1" },
     dtdParamEntityPunct = { link = "SolarizedBase1" },
     dtdParamEntityDPunct = { link = "SolarizedBase1" },

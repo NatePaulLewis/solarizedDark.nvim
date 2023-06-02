@@ -310,7 +310,7 @@ M.setup = function()
     -- Identifiers
     --
     -- @variable         ; various variable names
-    ["@variable"] = { link = "SolarizedBlue" },
+    ["@variable"] = { link = "SolarizedRed" },
     -- @variable.builtin ; built-in variable names (e.g. `this`)
     ["@variable.builtin"] = { link = "Special" },
 

@@ -130,7 +130,7 @@ M.setup = function()
     PreProc = { link = "SolarizedCyan" },
     Include = { link = "SolarizedCyan" },
     Define = { link = "SolarizedCyan" },
-    Macro = { link = "SolarizedCyan" },
+    Macro = { link = "SolarizedOrange" },
     PreCondit = { link = "SolarizedCyan" },
     Constant = { link = "SolarizedViolet" },
     Character = { link = "SolarizedViolet" },

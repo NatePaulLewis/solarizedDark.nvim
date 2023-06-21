@@ -898,7 +898,7 @@ M.setup = function()
     rustStringContinuation = { link = "SolarizedCyan" },
     rustEnum = { link = "SolarizedCyan" },
     rustStructure = { link = "SolarizedCyan" },
-    rustModPathSep = { link = "SolarizedBase0" },
+    rustModPathSep = { link = "SolarizedOrange" },
     rustCommentLineDoc = { link = "Comment" },
     rustDefault = { link = "SolarizedCyan" },
     -- ocaml
